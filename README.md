@@ -1,6 +1,6 @@
 # okr-mindmapping
 
-My personal OKR (Object Key Results) on prespective mindmapping
+My personal OKR (Objectives & Key Results) on prespective mindmapping
 
 ## Prerequisites
 * Mindmapping Tools using [FreeMind](https://sourceforge.net/projects/freemind/)
