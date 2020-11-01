@@ -6,8 +6,7 @@
 ![pull requests](https://img.shields.io/github/issues-pr/zeroc0d3/okr-mindmapping)
 ![forks](https://img.shields.io/github/forks/zeroc0d3/okr-mindmapping)
 ![stars](https://img.shields.io/github/stars/zeroc0d3/okr-mindmapping)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-![hacktober](https://img.shields.io/github/hacktoberfest/2020/zeroc0d3/okr-mindmapping)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 My personal OKR (Objectives & Key Results) on prespective mindmapping
 
